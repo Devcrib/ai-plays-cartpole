@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-.DS_Store
-__pycache__
-log/
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -104,4 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
->>>>>>> 5b536e42ca366daf45bf00b7c1296ac54598e715
+
+### Tensorboard
+log/
